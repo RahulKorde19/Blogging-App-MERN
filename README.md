@@ -1,11 +1,11 @@
-# Blog-It
+# Blogging-App-MERN
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/ayush-oswal/Blog-It.svg)](https://github.com/ayush-oswal/Blog-It/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ayush-oswal/Blog-It.svg)](https://github.com/ayush-oswal/Blog-It/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ayush-oswal/Blog-It.svg)](https://github.com/ayush-oswal/Blog-It/network)
+[![GitHub issues](https://img.shields.io/github/issues/RahulKorde19/Blogging-App-MERN.svg)](https://github.com/RahulKorde19/Blogging-App-MERN/issues)
+[![GitHub stars](https://img.shields.io/github/stars/RahulKorde19/Blogging-App-MERN.svg)](https://github.com/RahulKorde19/Blogging-App-MERN/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RahulKorde19/Blogging-App-MERN.svg)](https://github.com/RahulKorde19/Blogging-App-MERN/network)
 
-Blog-It is a MERN (MongoDB, Express.js, React, Node.js) stack application that empowers users to create, view, and search for blog posts. It incorporates robust user authentication using bcrypt, JWT, and cookies, allowing users to log in, register, and engage with the community through comments. Only the author of a post has the authority to update or delete it.
+Blogging-App-MERN is a MERN (MongoDB, Express.js, React, Node.js) stack application that empowers users to create, view, and search for blog posts. It incorporates robust user authentication using bcrypt, JWT, and cookies, allowing users to log in, register, and engage with the community through comments. Only the author of a post has the authority to update or delete it.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,7 +16,7 @@ Blog-It is a MERN (MongoDB, Express.js, React, Node.js) stack application that e
 
 ## Installation
 
-To set up Blog-It locally, follow these comprehensive steps:
+To set up Blogging-App-MERN locally, follow these comprehensive steps:
 
 1. **Clone the repository:**
 
@@ -58,9 +58,9 @@ To set up Blog-It locally, follow these comprehensive steps:
 
 3.  Access the application:
 
-    -   Open your browser and navigate to `http://localhost:3000` to view the Blog-It application.
+    -   Open your browser and navigate to `http://localhost:3000` to view the Blogging-App-MERN application.
 
-This setup process covers cloning the repository, installing dependencies, and configuring Cloudinary for image storage. Make sure to follow each step carefully to ensure a smooth installation process. If you encounter any issues, refer to the documentation or seek help from the community.
+This setup process covers cloning the repository, installing dependencies. Make sure to follow each step carefully to ensure a smooth installation process. If you encounter any issues, refer to the documentation or seek help from the community.
 
 # Features
 
@@ -78,20 +78,9 @@ This setup process covers cloning the repository, installing dependencies, and c
 
 # User Authentication
 
-Blog-It uses bcrypt for password hashing, JWT for secure user authentication, and cookies for a seamless user experience. To contribute, familiarize yourself with these technologies and the authentication flow in the application.
-
-# Contributing
+Blogging-App-MERN uses bcrypt for password hashing, JWT for secure user authentication, and cookies for a seamless user experience. 
 
 
-Contributions are welcome! Here's how you can contribute to Blog-It:
-
-1.  Fork the repository.
-2.  Create a new branch: `git checkout -b feature/your-feature`.
-3.  Make your changes and commit them: `git commit -m 'Add new feature'`.
-4.  Push to your branch: `git push origin feature/your-feature`.
-5.  Submit a pull request.
-
-Please ensure that your pull request adheres to the contributing guidelines.
 
 License
 -------
