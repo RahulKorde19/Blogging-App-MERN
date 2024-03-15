@@ -86,3 +86,9 @@ License
 -------
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
+
+
+References
+----------
+
+Built using [Coding with Dawid](https://www.youtube.com/watch?v=xKs2IZZya7c) Youtube video
